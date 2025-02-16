@@ -12,7 +12,7 @@ I'm a data scientist in Pittsburgh, PA.
 
 ## Skills
 
-- **Languages:** [Python, SQL, Bash]
+- **Languages:** Python, SQL, Bash
 - **Tools & Technologies:** Git, GitHub, GitLab, GitLab CI/CD, Docker, Flask, FastAPI, MLFlow, Hugging Face, Power BI
 - **Data Science:** Data Cleaning and Munging, EDA, Feature Engineering, Supervised and Unsupervised Machine Learning, NLP, ML Pipelines, MLOps
 - **Business Intelligence/Data Engineering:** ETL/Data Pipelines, Dashboards, Data Visualization, KPI Development, Data Modeling
