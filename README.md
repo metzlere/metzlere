@@ -5,7 +5,7 @@ I'm a data scientist in Pittsburgh, PA. I focus on developing and deploying ML s
 ## About Me
 
 - 🔭 I’m currently working on **MLOps frameworks for classical machine learning at my org**
-- 🌱 I’m currently learning **web development, HTML, CSS, JavaScript, hosting web apps on Raspberry Pi**
+- 🌱 For fun, I'm dabbling in **web development, HTML, CSS, JavaScript, hosting web apps on Raspberry Pi**
 - 👨‍👩‍👧‍👦 I'm a father of 2 young ones (and 1 more on the way)
 - 🪖 I served in the Army on Active Duty and am currently a Reservist
 - 📖 🏋🏻‍♂️ 🤼‍♂️ In my free time, I enjoy reading, lifting, and Jiu Jitsu
