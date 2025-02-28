@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Eric
+# Hi there, I'm Eric
 
 I'm a data scientist in Pittsburgh, PA.
 
