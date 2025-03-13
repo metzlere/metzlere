@@ -4,25 +4,28 @@ I'm a data scientist in Pittsburgh, PA.
 
 ## About Me
 
-- 💻 I’m currently building an MLOps framework and reference architecture for my org, while developing and deploying classical ML.
-- 🌱 For fun, I'm dabbling in web development, HTML, CSS, JavaScript, and hosting web apps on my Raspberry Pi
-- 👨‍👩‍👧‍👦 I'm a father of 2 young ones (and 1 more on the way)
-- 🪖 I served in the Army on Active Duty and am currently a Reservist
-- 📖 🏋🏻‍♂️ 🤼‍♂️ In my free time, I enjoy reading, lifting, and Jiu Jitsu
+- I’m currently building an MLOps framework and reference architecture for my org, while developing and deploying classical ML.
+- For fun, I'm learning a bit of web development, HTML, CSS, JavaScript, and hosting web apps on my Raspberry Pi
+- I'm a father of 2 young ones (and 1 more on the way)
+- I served in the Army on Active Duty and am currently a Reservist
+- In my free time, I enjoy reading, lifting, and Jiu Jitsu
 
 ## Projects
 
-### 🔹 **codebase-dumper**  
+### **ml-ops-reference-architecture** 
+This is a reference architecture that I've built for classical ML in production. It was designed for an organization with a low level of data maturity and is not fully automated, requiring manual triggers of the model development component and manual selection of a champion model. It uses all open-source tools. 
+
+### **codebase-dumper**  
 LLMs have been very helpful for me in programming, but copying and pasting code snippets repeatedly can get old. This tool dumps all source code from a target directory into a Markdown file, making it easy to copy into an LLM prompt. I've found that more powerful models (like `o3-mini-high`) can give better answers with less back and forth when given full context of the codebase. This approach can speed up development big time for small and low-complexity personal projects. For professional projects, I don't have the same access to powerful LLMs, and I tend to use them to mainly to assist with code syntax as well as brainstorming approaches to solving proxy problems.  
 
-### 🔹 **531-tracker**  
+### **531-tracker**  
 **A web app for tracking progress on Jim Wendler’s 5/3/1 lifting program**, logging workouts, and tracking volume over time. I am certainly not a web developer - this was a learning project for me and it was cool to see how HTML, CSS, JavaScript, and the backend connect. Tech stack: HTML, CSS, JavaScript, SQLite  
-**🔹 Features:**  
+**Features:**  
 - Track weekly workout progress  
 - Store lifting logs in an SQLite database  
 - Hosted on a Raspberry Pi an accessible from the internet (DM me if you’d like to try it out!)
 
-### 🔹 **Things I'd like to try next when I have time**
+### **Things I'd like to try next when I have time**
 - **Malicious Domain Classification** using LSTM 
 - **Object Detection in Satellite Imagery**  
 - **Therapy Chatbot** that only responds in Creed lyrics (joking… or maybe not)  
