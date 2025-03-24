@@ -5,7 +5,6 @@ I'm a data scientist in Pittsburgh, PA.
 ## About Me
 
 - I’m currently building an MLOps framework and reference architecture for my org, while developing and deploying classical ML.
-- For fun, I'm learning a bit of web development, HTML, CSS, JavaScript, and hosting web apps on my Raspberry Pi
 - I'm a father of 2 young ones (and 1 more on the way)
 - I served in the Army on Active Duty and am currently a Reservist
 - In my free time, I enjoy reading, lifting, and Jiu Jitsu
@@ -24,12 +23,6 @@ LLMs have been very helpful for me in programming, but copying and pasting code 
 - Track weekly workout progress  
 - Store lifting logs in an SQLite database  
 - Hosted on a Raspberry Pi an accessible from the internet (DM me if you’d like to try it out!)
-
-### **Things I'd like to try next when I have time**
-- **Malicious Domain Classification** using LSTM 
-- **Object Detection in Satellite Imagery**  
-- **Therapy Chatbot** that only responds in Creed lyrics (joking… or maybe not)  
-
 
 ## Skills
 
