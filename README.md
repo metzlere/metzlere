@@ -14,7 +14,7 @@ I'm a data scientist in Pittsburgh, PA.
 ### **ml-ops-reference-architecture** 
 This is a reference architecture that I've built for classical ML in production. It was designed for an organization with a low level of data maturity and is not fully automated, requiring manual triggers of the model development component and manual selection of a champion model. It uses all open-source tools. 
 
-## **context-builder**
+### **context-builder**
 Context Builder is a comprehensive toolkit for preparing codebase context for LLM interactions. It's designed for developers who need to manually extract and format code context when integrated agentic coding tools (like Claude Code, Cursor, etc.) aren't available or suitable for their environment. This is an updated version of `codebase-dumper`, built with Claude Code.
 
 ### **codebase-dumper**  
