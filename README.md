@@ -4,7 +4,7 @@ I'm a data scientist in Pittsburgh, PA.
 
 ## About Me
 
-- I’m currently building an MLOps framework and reference architecture for my org, while developing and deploying classical ML.
+- Most of my work is focused on developing and deploying classical ML
 - I'm a father of 2 young ones (and 1 more on the way)
 - I served in the Army on Active Duty and am currently a Reservist
 - In my free time, I enjoy reading, lifting, and Jiu Jitsu
