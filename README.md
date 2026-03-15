@@ -1,21 +1,15 @@
 # Hi there, I'm Eric
 
-I'm a data scientist in Pittsburgh, PA.
-
-## About Me
-
+- I'm a cybersecurity data scientist in Pittsburgh, PA.
 - Most of my work is focused on developing and deploying classical ML
-- I'm a father of 2 young ones (and 1 more on the way)
-- I served in the Army on Active Duty and am currently a Reservist
-- In my free time, I enjoy reading, lifting, and Jiu Jitsu
 
 ## Projects
 
 ### **ml-ops-reference-architecture** 
 This is a reference architecture that I've built for classical ML in production. It was designed for an organization with a low level of data maturity and is not fully automated, requiring manual triggers of the model development component and manual selection of a champion model. It uses all open-source tools. 
 
-### **context-builder**
-Context Builder is a comprehensive toolkit for preparing codebase context for LLM interactions. It's designed for developers who need to manually extract and format code context when integrated agentic coding tools (like Claude Code, Cursor, etc.) aren't available or suitable for their environment. This is an updated version of `codebase-dumper`, built with Claude Code.
+### **ctx**
+A CLI tool that is used to assemble repository context for copy paste into an LLM chat platform in restricted environments where agentic coding cools are not available. Has 2 workflows, full and quick, which are based on GitHub Spec Kit for spec-driven development within the chat session. 
 
 ### **531-tracker**  
 **A web app for tracking progress on Jim Wendler’s 5/3/1 lifting program**, logging workouts, and tracking volume over time. I am certainly not a web developer - this was a learning project for me and it was cool to see how HTML, CSS, JavaScript, and the backend connect. Tech stack: HTML, CSS, JavaScript, SQLite  
